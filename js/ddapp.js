@@ -10,7 +10,7 @@
 			dropZones = document.querySelectorAll(".drop-zone"),
             puzzlepieces = document.querySelector(".puzzle-pieces");
 
-    // functions go in the middle
+    
     function swapImages() {
         // swap out the draggable thumbnail images
         // update the backgound image of the drop zone dropContainer
