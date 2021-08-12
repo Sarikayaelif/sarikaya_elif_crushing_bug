@@ -1,5 +1,5 @@
 # Crushing Bugs
-  Troubleshooting in Drag and drop puzzles
+  Troubleshooting in Drag and drop puzzles project.
 
 ## Roadmap
 there are two bugs needs to solve
